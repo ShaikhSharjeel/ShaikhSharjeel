@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shaikh Sharjeel Ahmed</h1>
 <h3 align="center">A passionate frontend developer from India. GDSC Event Lead (core-member)</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://s25.q4cdn.com/982695397/files/images/your-needs/IR_websites.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhsharjeel&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhsharjeel" /> </p>
