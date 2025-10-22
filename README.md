@@ -1,4 +1,4 @@
-[![Shaikh Sharjeel Ahmed](banner.png)]
+![Shaikh Sharjeel Ahmed](banner.jpg)
 <h1 align="center">Hi 👋, I'm Shaikh Sharjeel Ahmed</h1>
 <h3 align="center">A passionate frontend developer from India. GDSC Event Lead (core-member)</h3>
 <img align="right" alt="Coding" width="400" src="https://s25.q4cdn.com/982695397/files/images/your-needs/IR_websites.gif">
